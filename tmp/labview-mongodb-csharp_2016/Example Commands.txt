@@ -1,0 +1,16 @@
+db.getCollection('hitran_2012').find({ trans_nu: { $gte: 20, $lte : 22 }, trans_molec_id: 1 }).sort( {trans_nu: -1})
+
+# Select lines from DB, where trans_nu gte 4000 cm-1 (2500 nm) and lte 9090 cm-1 (1100 nm)
+db.getCollection('hitran_2012').find({ trans_nu: { $gte: 4000, $lte : 9090 }, trans_molec_id: 1 }).sort( {trans_nu: -1}).count()
+db.getCollection('hitran_2012').find({ trans_nu: { $gte: 4000, $lte : 9090 }, trans_molec_id: 1 }).sort( {trans_nu: -1}).limit(50000)
+db.getCollection('hitran_2012').find({ trans_nu: { $gte: 4000, $lte : 9090 }, trans_molec_id: 1 }, { "_id": false }).sort( {param_intensity_weighted_abundace: -1}).limit(50000)
+db.getCollection('hitran_2012').find({ trans_nu: { $gte: 4000, $lte : 9090 }, trans_molec_id: { $in: [ 1,6 ] } }, { "_id": false }).sort( {param_intensity_weighted_abundace: -1}).limit(50000)
+
+O2-VCSEL bei 760 nm:
+db.getCollection('hitran_2012').find({ trans_nu: { $gte: 12650, $lte : 13700 }, trans_molec_id: { $in: [ 7 ] } }, { "_id": false }).sort( {param_intensity_weighted_abundace: -1}).limit(50000)
+
+db.getCollection('hitran_2012').find({ trans_nu: { $gte: 4000, $lte : 9090 }, trans_molec_id: 1 }, { "_id": false }).sort( {trans_nu: -1}).limit(50000)
+
+db.getCollection('hitran_2012').totalIndexSize()
+
+db.getCollection('hitran_2012').find({ trans_nu: { $gte: 7246, $lte : 7352 }, trans_molec_id: 1 }, { "_id": false }).sort( {param_intensity_weighted_abundace: -1})

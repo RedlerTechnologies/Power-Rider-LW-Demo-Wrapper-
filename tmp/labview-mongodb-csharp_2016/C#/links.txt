@@ -1,0 +1,18 @@
+C# Links:
+
+https://docs.microsoft.com/de-de/dotnet/articles/csharp/tutorials/index
+https://github.com/dotnet/docs/tree/master/samples/framework/libraries/frameworks-library
+https://github.com/dotnet/docs/tree/master/samples/csharp/getting-started/console-teleprompter
+https://docs.microsoft.com/en-us/dotnet/articles/framework/interop/creating-a-class-to-hold-dll-functions
+https://docs.mongodb.com/ecosystem/drivers/csharp/
+
+http://www.drdobbs.com/database/mongodb-with-c/240151668?pgno=1
+http://www.drdobbs.com/database/mongodb-with-c-deep-dive/240152181
+
+https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-1-basics-g4frivcvz
+https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-2-retrieving-mrlbeanm5
+https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-part-3-skip-sort-limit-and-projections-oqfwncyka
+
+https://docs.microsoft.com/en-us/nuget/guides/create-net-standard-packages-vs2017
+
+https://gist.github.com/kenegozi/3504325

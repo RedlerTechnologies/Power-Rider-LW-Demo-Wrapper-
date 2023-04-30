@@ -1,0 +1,16 @@
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MLV-TestApp.exe.config
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MLV-TestApp.exe
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MLV-TestApp.pdb
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoLabVIEW.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoDB.Driver.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoDB.Driver.Core.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoDB.Bson.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoLabVIEW.pdb
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoLabVIEW.dll.config
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoDB.Driver.xml
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoDB.Driver.Core.xml
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\MongoDB.Bson.xml
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\obj\Debug\MLV-TestApp.csprojResolveAssemblyReference.cache
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\obj\Debug\MLV-TestApp.exe
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\obj\Debug\MLV-TestApp.pdb
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MLV-TestApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll

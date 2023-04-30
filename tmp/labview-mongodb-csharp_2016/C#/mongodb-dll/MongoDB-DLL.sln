@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoLabVIEW", "MongoLabVIEW\MongoLabVIEW.csproj", "{53E59DF8-3091-43EB-A651-935B111643A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLV-TestApp", "MLV-TestApp\MLV-TestApp.csproj", "{54685F75-936D-4C59-8066-E407C125CDB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E59DF8-3091-43EB-A651-935B111643A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E59DF8-3091-43EB-A651-935B111643A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E59DF8-3091-43EB-A651-935B111643A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E59DF8-3091-43EB-A651-935B111643A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54685F75-936D-4C59-8066-E407C125CDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54685F75-936D-4C59-8066-E407C125CDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54685F75-936D-4C59-8066-E407C125CDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54685F75-936D-4C59-8066-E407C125CDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

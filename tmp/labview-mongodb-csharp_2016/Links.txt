@@ -1,0 +1,31 @@
+Tutorials, etc.:
+https://docs.mongodb.com/getting-started/shell/introduction/
+https://www.tutorialspoint.com/mongodb/index.htm
+
+Index-related stuff:
+https://docs.mongodb.com/manual/applications/indexes/
+https://docs.mongodb.com/manual/tutorial/ensure-indexes-fit-ram
+
+LabVIEW-Zeugs:
+https://forums.ni.com/t5/LabVIEW/calling-net-assembly-with-an-interface-parameter/td-p/2976055
+
+http://forums.ni.com/t5/LabVIEW/LABVIEW-calling-net-method-with-Interface-as-parameter/td-p/3238752
+(NO GENERIC INTERFACES IN LabVIEW !!!!)
+
+Visual Studio for C# DLL Development
+https://docs.microsoft.com/en-us/dotnet/articles/csharp/programming-guide/concepts/assemblies-gac/how-to-create-and-use-assemblies-using-the-command-line
+http://www.c-sharpcorner.com/UploadFile/66489a/creating-C-Sharp-class-library-dll-using-visual-studio-2015-pre/
+
+MongoDB und C#
+https://mongodb.github.io/mongo-csharp-driver/
+https://docs.mongodb.com/ecosystem/drivers/csharp/
+https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-1-basics-g4frivcvz
+https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-2-retrieving-mrlbeanm5
+https://www.codementor.io/pmbanugo/working-with-mongodb-in-net-part-3-skip-sort-limit-and-projections-oqfwncyka
+
+LabVIEW to JSON
+http://gcraftsman.com/overview-and-examples.html
+http://sine.ni.com/nips/cds/view/p/lang/en/nid/215788
+
+LabVIEW Framework
+http://featherweight.io/

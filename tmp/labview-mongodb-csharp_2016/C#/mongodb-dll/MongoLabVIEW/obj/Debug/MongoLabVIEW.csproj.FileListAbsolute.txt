@@ -1,0 +1,13 @@
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoLabVIEW.dll.config
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoLabVIEW.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoLabVIEW.pdb
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoDB.Bson.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoDB.Driver.Core.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoDB.Driver.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoDB.Bson.xml
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoDB.Driver.xml
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\bin\Debug\MongoDB.Driver.Core.xml
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\obj\Debug\MongoLabVIEW.dll
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\obj\Debug\MongoLabVIEW.pdb
+D:\Data\SSoftware-VIs\labview-mongodb-csharp\C#\mongodb-dll\MongoLabVIEW\obj\Debug\MongoLabVIEW.csprojResolveAssemblyReference.cache
